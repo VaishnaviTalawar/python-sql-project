@@ -16,7 +16,7 @@ print("\n--- Subscription Status vs Spending ---")
 print(df.groupby("Subscription_Status")["Purchase_Amount_USD"].mean())
 
 # Chart 1
-'''category_sales = df.groupby("Category")["Purchase_Amount_USD"].sum().sort_values(ascending=False)
+category_sales = df.groupby("Category")["Purchase_Amount_USD"].sum().sort_values(ascending=False)
 
 plt.figure(figsize=(10,5))
 category_sales.plot(kind='bar')
@@ -26,41 +26,42 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
+
 #Chart 2
 Payment_Count=print(df["Payment_Method"].value_counts())
 
 plt.figure()
 Payment_Count.plot(kind='pie', autopct='%1.1f%%')
 plt.title("Payment Method Usage")
-plt.show()'''
+plt.show()
 
 #Chart 3
-'''season_sales = df.groupby("Season")["Purchase_Amount_USD"].sum()
+season_sales = df.groupby("Season")["Purchase_Amount_USD"].sum()
 
 plt.figure()
 season_sales.plot(kind='bar')
 plt.title("Seasonal Sales")
 plt.xlabel("Season")
 plt.ylabel("Total Sales (USD)")
-plt.show()'''
+plt.show()
 
 #Chart 4
-'''subscription_spending = df.groupby("Subscription_Status")["Purchase_Amount_USD"].mean()
+subscription_spending = df.groupby("Subscription_Status")["Purchase_Amount_USD"].mean()
 
 plt.figure()
 subscription_spending.plot(kind='bar')
 plt.title("Average Spending by Subscription Status")
 plt.xlabel("Subscription Status")
 plt.ylabel("Average Spending (USD)")
-plt.show()'''
+plt.show()
 
 #Chart 5
-'''plt.figure()
+plt.figure()
 plt.hist(df["Purchase_Amount_USD"], bins=20)
 plt.title("Purchase Amount Distribution")
 plt.xlabel("Amount (USD)")
 plt.ylabel("Frequency")
-plt.show()'''
+plt.show()
 
 #chart 6
 category_count = df["Category"].value_counts()
