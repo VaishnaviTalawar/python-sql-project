@@ -53,29 +53,6 @@ Customers with subscriptions showed slightly higher average spending behavior.
 Most purchases were distributed between moderate spending ranges, indicating consistent customer purchasing behavior.
 
 
-Project Structure
-Customer-Shopping-Analysis/
-│
-├── data/
-│   ├── customer_shopping_data.csv
-│
-├── notebooks/
-│   ├── customer_analysis.ipynb
-│
-├── visuals/
-│   ├── sales_by_category.png
-│   ├── payment_methods.png
-│   ├── seasonal_sales.png
-│   ├── subscription_spending.png
-│   ├── purchase_distribution.png
-│
-├── sql/
-│   ├── analysis_queries.sql
-│
-├── README.md
-Sample Visualizations
-
-
 Business Recommendations
 Focus marketing campaigns on high-performing categories like Clothing and Accessories.
 Strengthen loyalty programs to improve customer retention.
