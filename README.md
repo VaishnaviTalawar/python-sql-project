@@ -38,7 +38,8 @@ Payment method usage analysis
 
 Key Insights
 1. Sales by Product Category
-"C:\Users\Vaishnavi\Documents\Data_analytics project\Customer_shipping_behaviour\Python file\Output\1 graph.png"
+![Uploading 1 graph.png…]()
+
 Clothing generated the highest sales revenue.
 Accessories also contributed significantly to total sales.
 Outerwear showed comparatively lower sales.
