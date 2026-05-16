@@ -38,18 +38,19 @@ Payment method usage analysis
 
 Key Insights
 1. Sales by Product Category
+"C:\Users\Vaishnavi\Documents\Data_analytics project\Customer_shipping_behaviour\Python file\Output\1 graph.png"
 Clothing generated the highest sales revenue.
 Accessories also contributed significantly to total sales.
 Outerwear showed comparatively lower sales.
-2. Payment Method Analysis
+3. Payment Method Analysis
 Customers used multiple payment methods almost equally.
 PayPal and Credit Cards were among the most preferred options.
-3. Seasonal Sales Trends
+4. Seasonal Sales Trends
 Fall and Winter seasons recorded higher sales.
 Summer sales were slightly lower compared to other seasons.
-4. Subscription vs Spending
+5. Subscription vs Spending
 Customers with subscriptions showed slightly higher average spending behavior.
-5. Purchase Amount Distribution
+6. Purchase Amount Distribution
 Most purchases were distributed between moderate spending ranges, indicating consistent customer purchasing behavior.
 
 
