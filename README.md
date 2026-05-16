@@ -51,6 +51,8 @@ Summer sales were slightly lower compared to other seasons.
 Customers with subscriptions showed slightly higher average spending behavior.
 5. Purchase Amount Distribution
 Most purchases were distributed between moderate spending ranges, indicating consistent customer purchasing behavior.
+
+
 Project Structure
 Customer-Shopping-Analysis/
 │
